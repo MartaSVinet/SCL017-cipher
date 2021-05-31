@@ -471,8 +471,7 @@ Las decisiones de diseño se tomaron en torno a la temática escogida, que fuera
 
 La primera tarea fue identificar los elementos que debían estar presentes en nuestra aplicación, por lo tanto, la imagen inicial corresponde a la visualización de lo necesario, para ser creado en HTML
 
-![](src/Readmeimgs/imgone.jpg)
-
+![](./src/Readmeimgs/imgone.jpg)
 La siguiente tarea fue visualizar la distribución de los elementos, para comprender como sería la interacción entre ellos.
 
 ![](src/Readmeimgs/imgtwo.jpg)
