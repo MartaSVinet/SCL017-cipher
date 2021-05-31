@@ -473,7 +473,7 @@ La primera tarea fue identificar los elementos que debían estar presentes en nu
 
 ![](src/Readmeimgs/imgone.jpg)
 
-La siguiente tarea fue visualizar la distribución de los elementos, para comprender como sería la interacción entre ellos. 
+La siguiente tarea fue visualizar la distribución de los elementos, para comprender como sería la interacción entre ellos.
 
 ![](src/Readmeimgs/imgtwo.jpg)
 

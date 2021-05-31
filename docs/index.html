@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Caesar Cipher</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="pageOne">
+   <div id="title" class="containerOne">
+     <h1><Bienvenido>¡Bienvenido, Agente Secreto!</Bienvenido> <br></h1>
+     <br>
+     <h2> En ésta guarida podrás encontrar las herramientas para codificar tu mensaje. ¡Manos a la Obra!</h2>
+   </div><br>
+
+   <div id="instructions" class="containerTwo">
+    <h3> Elige la cantidad de posiciones en el alfabeto que quieres desplazar para tu código</h3>
+   </div>
+
+   <div class="desplazamiento">
+     <input id="offSet" type="number" name="off" min="1" max="25" step="1">
+   </div> <br>
+
+   <div id="textAreasPageOne" class="containerThree">
+  <textarea id="originalMessage" class="textAreaStyle" placeholder="Escribe tu mensaje aquí" cols="30" rows="10"></textarea>
+
+    <input id="encode" type="button" class="encodeButton" value="Codificar"></input>
+
+  <textarea id="codedMessage" type="text" class="textAreaStyle" placeholder="Mensaje codificado" cols="30" rows="10"></textarea>
+  </div> <br><br><br><br><br><br><br>
+
+  <div id="toInicialPage" class="Return">
+    <h4> Si necesitas decodificar un mensaje encriptado, haz click aquí:</h4>
+    <input id="toDecode" type="button" class="encodeButton" value="Decodificar" onclick=></input>
+  </div>
+  </div>
+
+
+  <div id="pageTwo">
+ <div id="instructionsDos" class="containterTwo">
+  <h3> Elige la cantidad de posiciones en el alfabeto que quieres desplazar para tu código</h3><br>
+
+ <input id="offSetTwo" type="number" name="off" min="1" max="25" step="1"><br><br><br>
+ </div>
+
+ <div id="textAreasPageTwo" class="containerThree">
+   <textarea id="secretMessage" class= "textAreaStyle" placeholder="Mensaje encriptado" cols="30" rows="10" ></textarea>
+ <input id= "decode" type="button" value="Decodificar">
+ <textarea id="revealedMessage" class="textAreaStyle" placeholder="Mensaje descifrado" cols="30" rows="10"></textarea>
+    </div>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
