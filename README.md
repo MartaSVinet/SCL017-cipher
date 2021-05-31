@@ -1,3 +1,6 @@
+<details>
+<summary>Readme Laboratoria</summary>
+
 # Cifrado César
 
 ## Índice
@@ -434,5 +437,49 @@ de las usuarias.
 * [ ] Cifra/descifra minúsculas
 * [ ] Cifra/descifra _otros_ caracteres (espacios, puntuación, `ñ`, `á`, ...)
 * [ ] Permite usar un `offset` negativo.
+
+</details>
+
+</details>
+
+<details>
+<summary>Readme Marta</summary>
+
+# Introducción
+
+Ésta aplicación está destinada al entretenimiento y juegos del mundo geek. Puede ser utilizada por cualquier persona en el contexto de "Agente secreto", ya sea para búsquedas del tesoro, concursos de desafíos y trivias. El tipo de cifrado no está especificado para evitar que personas no usuarias de la página puedan cifrar o descifrar por otros medios.
+
+## Funcionalidad y Diseño
+
+La aplicación fue pensada como una interfaz sencilla de dos pantallas a través de la cual es posible acceder fácilmente a la función de cifrar y descifrar. Los objetos creados en ella se enfocan directamente al objetivo. En la pantalla uno podemos encontrar el texto de bienvenida y las instrucciones con los siguientes elementos:
+-Un input numerico que permite elegir un offset desde el 1 al 25.
+-Una caja de texto que corresponde a la entrada del mensaje a cifrar.
+-Un input tipo botón que permite ejecutar la acción de cifrar.
+-Una segunda caja de texto que corresponde al texto de salida ya cifrado.
+-Una invitación a la segunda página que permite descifrar.
+-Un input tipo botón con la función de llevarnos a la segunda página.
+En la pantalla dos podemos encontrar los siguientes elementos:
+-Nuevamente la instrucción para elegir el offset.
+-Un input numerico que permite elegir un offset desde el 1 al 25.
+-Una caja de texto que corresponde a la entrada del mensaje a descifrar.
+-Un input tipo botón que permite ejecutar la acción de descifrar.
+-Una caja de texto que corresponde al texto de salida ya descifrado.
+
+Las decisiones de diseño se tomaron en torno a la temática escogida, que fuera de apariencia sencilla, sobria y funcional, escogiendo colores fríos que contrastaran sutilmente con el fondo.
+
+## Prototipos
+
+La primera tarea fue identificar los elementos que debían estar presentes en nuestra aplicación, por lo tanto, la imagen inicial corresponde a la visualización de lo necesario, para ser creado en HTML
+
+![](src/Readmeimgs/imgone.jpg)
+
+La siguiente tarea fue visualizar la distribución de los elementos, para comprender como sería la interacción entre ellos. 
+
+![](src/Readmeimgs/imgtwo.jpg)
+
+Finalmente, cree el prototipo de alta fidelidad en figma, el cual sufrió diferentes cambios en el proceso y es diferente al resultado final.
+
+![](src/Readmeimgs/Figma.png)
+
 
 </details>

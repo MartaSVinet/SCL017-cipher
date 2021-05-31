@@ -1,0 +1,85 @@
+body {
+  background: url(https://i.etsystatic.com/18423323/r/il/81b634/2087066356/il_794xN.2087066356_cxe3.jpg);
+  background-repeat: round;
+  background-size: cover;
+  text-align: center;
+  height: 100vh;
+  font-family: consolas;
+  }
+
+  .containerOne{
+  display: flex;
+  flex-direction: column;
+  column-count: 1;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  flex-basis: auto;
+  }
+
+.containerTwo{
+  display: flex;
+  flex-direction: row;
+  column-count: 1;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-basis: auto;
+  }
+
+.containerThree{
+  display: flex;
+  flex-direction: row;
+  column-count: 3;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-basis: auto;
+  }
+h1 {
+  font-family: 'Courier New';
+  background-color: rgba(83, 83, 83, 0.541);
+  color: rgb(246, 246, 246);
+  font-size: 50px;
+  text-align: center;
+}
+h2 {font-family: Sans-serif;
+color: #C9A436;
+font-size: 25px;
+text-align: center;
+}
+
+h3 {font-family: Arial;
+color: #71B151;
+font-size: 20px;
+text-align: center;
+-webkit-text-stroke-width: 0.5px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+h4 {
+  font-family: Sans-serif;
+  color: rgba(178, 181, 182, 0.89);
+  font-size: 25px;
+  text-align: center
+}
+
+.desplazamiento{
+  display: flex;
+  flex-direction: row;
+  column-count: 1;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  flex-basis: auto;
+  }
+
+.textAreaStyle{
+  background-color: transparent;
+  color: whitesmoke;
+  font: Courier;
+  float: left;
+  margin-left: 80px;
+  border-radius: 12px;
+  border-color: aliceblue;
+}
