@@ -478,7 +478,7 @@ La siguiente tarea fue visualizar la distribución de los elementos, para compre
 
 Finalmente, cree el prototipo de alta fidelidad en figma, el cual sufrió diferentes cambios en el proceso y es diferente al resultado final.
 
-![](src/Readmeimgs/Figma.png)
+![figma](https://user-images.githubusercontent.com/83969423/120232084-d13b5280-c220-11eb-8e1d-f6c17b617259.png)
 
 https://martasvinet.github.io/SCL017-cipher/
 </details>
