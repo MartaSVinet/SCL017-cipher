@@ -471,15 +471,15 @@ Las decisiones de diseño se tomaron en torno a la temática escogida, que fuera
 
 La primera tarea fue identificar los elementos que debían estar presentes en nuestra aplicación, por lo tanto, la imagen inicial corresponde a la visualización de lo necesario, para ser creado en HTML
 
-![](src/Readmeimgs/imgone.jpg)
+![20210531_144623](https://user-images.githubusercontent.com/83969423/120246564-95af8100-c23e-11eb-8fb1-87682fed7be8.jpg)
 
 La siguiente tarea fue visualizar la distribución de los elementos, para comprender como sería la interacción entre ellos. 
 
-![](src/Readmeimgs/imgtwo.jpg)
+![20210531_144544](https://user-images.githubusercontent.com/83969423/120246571-9a743500-c23e-11eb-9922-7e1ddb6e052b.jpg)
 
 Finalmente, cree el prototipo de alta fidelidad en figma, el cual sufrió diferentes cambios en el proceso y es diferente al resultado final.
 
-![](src/Readmeimgs/Figma.png)
+![figma](https://user-images.githubusercontent.com/83969423/120246579-9ea05280-c23e-11eb-8094-7eab82949cf2.png)
 
 
 </details>
